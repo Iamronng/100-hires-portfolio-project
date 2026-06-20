@@ -40,3 +40,30 @@ This repository documents my setup process for the 100Hires portfolio project. T
 
 ## Project Status
 The first setup step has been completed. This README documents the tools installed, steps completed, issues encountered, and how they were solved.
+---
+
+# Research Project: YouTube Content Strategy for B2B SaaS
+
+## Chosen Topic
+
+YouTube content strategy for B2B SaaS
+
+## Research Goal
+
+The goal of this project is to collect high-signal public content from experts who understand YouTube growth, B2B SaaS marketing, video strategy, and content-led growth.
+
+This research will help identify patterns, strategies, and useful insights that can later be turned into a practical playbook.
+
+## What I Will Collect
+
+* 10 expert sources
+* YouTube videos and transcripts
+* Useful LinkedIn posts where available
+* Notes explaining why each expert is relevant
+
+## Folder Structure
+
+* `/research/sources.md`
+* `/research/youtube-transcripts/`
+* `/research/linkedin-posts/`
+* `/research/other/`
