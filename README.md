@@ -67,3 +67,30 @@ This research will help identify patterns, strategies, and useful insights that 
 * `/research/youtube-transcripts/`
 * `/research/linkedin-posts/`
 * `/research/other/`
+Final Research Project Summary
+Chosen Topic
+
+YouTube content strategy for B2B SaaS
+
+What I Collected
+
+For this research project, I collected public content from 10 experts across B2B SaaS marketing, YouTube strategy, content marketing, demand generation, content distribution, and community-led growth.
+
+The research includes:
+
+10 expert sources listed in /research/sources.md
+YouTube transcript files organized in /research/youtube-transcripts/
+Key research patterns summarized in /research/key-insights.md
+Repository Structure
+/research/sources.md — list of experts, links, reasons for selection, and collected content
+/research/youtube-transcripts/ — collected YouTube transcript files organized by expert/video
+/research/linkedin-posts/ — folder reserved for LinkedIn post research
+/research/other/ — folder reserved for additional research materials
+/research/key-insights.md — summary of research patterns and practical playbook direction
+Why These Experts Were Chosen
+
+The experts were chosen because they have public content related to B2B SaaS marketing, content strategy, YouTube, demand generation, content distribution, SaaS growth, and community-led growth. The goal was to avoid generic sources and focus on people who actively teach or practice strategies that can support a real B2B SaaS YouTube playbook.
+
+Main Research Takeaway
+
+The strongest pattern is that B2B SaaS YouTube content should not only promote a product. Strong content should educate buyers, explain real business problems, build trust, and connect to outcomes such as demand generation, lead quality, product education, sales velocity, and revenue growth.
