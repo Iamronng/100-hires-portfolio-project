@@ -4,7 +4,7 @@ Chosen topic: YouTube content strategy for B2B SaaS
 
 | No. | Expert Name | Platform | Link | Why I chose this expert | Content collected |
 |---|---|---|---|---|---|
-| 1 | Samu Kovács | YouTube / LinkedIn | https://www.youtube.com/channel/UCzRje0exRijnNzkNWyzB73A/videos | B2B YouTube specialist focused on helping B2B/SaaS companies use YouTube for authority, inbound leads, and revenue. | To collect: 1 YouTube transcript + 1 LinkedIn post |
+| 1 | Samu Kovács | YouTube / LinkedIn | https://www.youtube.com/channel/UCzRje0exRijnNzkNWyzB73A/videos | B2B YouTube specialist focused on helping B2B/SaaS companies use YouTube for authority, inbound leads, and revenue. | Collected: The Best SaaS Marketing Strategies for 2026 — YouTube transcript | 
 | 2 | Ali Schwanke / Simple Strat | YouTube / LinkedIn | https://www.youtube.com/c/SimpleStrat | Strong example of B2B educational YouTube content, especially tutorials and strategy-led content for business software users. | To collect: 1 YouTube transcript |
 | 3 | TK Kader | YouTube | https://www.youtube.com/@TKKader | Creates SaaS go-to-market and growth content, useful for understanding what SaaS founders care about. | To collect: 1 YouTube transcript |
 | 4 | Dan Martell | YouTube | https://www.youtube.com/@danmartell | SaaS founder/coach with a large YouTube library; useful for studying founder-led SaaS content and educational video strategy. | To collect: 1 YouTube transcript |
